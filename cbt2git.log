@@ -1,0 +1,8 @@
+2023-08-06 08:34:08.233564 - Initialized conversion of CBT938
+2023-08-06 08:34:08.273583 - Received CBT.V505.FILE938.PDS from FILE938.XMI 
+2023-08-06 08:34:08.276041 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE938.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:34:08.277249 - Found $$$XEPH.txt (text/plain) in CBT.V505.FILE938.PDS, moved to PDS/$$$XEPH
+2023-08-06 08:34:08.278274 - Found $$ART.txt (text/plain) in CBT.V505.FILE938.PDS, moved to PDS/$$ART
+2023-08-06 08:34:08.279211 - Found $$NOTE01.txt (text/plain) in CBT.V505.FILE938.PDS, moved to PDS/$$NOTE01
+2023-08-06 08:34:08.280190 - Found @FILE938.txt (text/plain) in CBT.V505.FILE938.PDS, moved to PDS/@FILE938
+2023-08-06 08:34:08.281122 - Found SSINFO.jcl (text/plain) in CBT.V505.FILE938.PDS, moved to PDS/SSINFO
