@@ -1,0 +1,7 @@
+2025-04-14 00:18:12.706598 - Received CBT.V508.FILE938.PDS from FILE938.XMI 
+2025-04-14 00:18:12.707317 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE938.PDS, moved to PDS/$$$#DATE
+2025-04-14 00:18:12.707393 - Found $$$XEPH.txt (text/plain) in CBT.V508.FILE938.PDS, moved to PDS/$$$XEPH
+2025-04-14 00:18:12.707472 - Found $$ART.txt (text/plain) in CBT.V508.FILE938.PDS, moved to PDS/$$ART
+2025-04-14 00:18:12.707531 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE938.PDS, moved to PDS/$$NOTE01
+2025-04-14 00:18:12.707589 - Found @FILE938.txt (text/plain) in CBT.V508.FILE938.PDS, moved to PDS/@FILE938
+2025-04-14 00:18:12.707661 - Found SSINFO.jcl (text/plain) in CBT.V508.FILE938.PDS, moved to PDS/SSINFO
