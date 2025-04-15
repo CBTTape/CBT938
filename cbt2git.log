@@ -1,7 +1,7 @@
-2025-04-15 06:55:43.475992 - Received CBT.V508.FILE938.PDS from FILE938.XMI 
-2025-04-15 06:55:43.476839 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE938.PDS, moved to PDS/$$$#DATE
-2025-04-15 06:55:43.476950 - Found $$$XEPH.txt (text/plain) in CBT.V508.FILE938.PDS, moved to PDS/$$$XEPH
-2025-04-15 06:55:43.477067 - Found $$ART.txt (text/plain) in CBT.V508.FILE938.PDS, moved to PDS/$$ART
-2025-04-15 06:55:43.477183 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE938.PDS, moved to PDS/$$NOTE01
-2025-04-15 06:55:43.477301 - Found @FILE938.txt (text/plain) in CBT.V508.FILE938.PDS, moved to PDS/@FILE938
-2025-04-15 06:55:43.477481 - Found SSINFO.jcl (text/plain) in CBT.V508.FILE938.PDS, moved to PDS/SSINFO
+2025-04-16 01:38:01.209695 - Received CBT.V508.FILE938.PDS from FILE938.XMI 
+2025-04-16 01:38:01.210427 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE938.PDS, moved to PDS/$$$#DATE
+2025-04-16 01:38:01.210500 - Found $$$XEPH.txt (text/plain) in CBT.V508.FILE938.PDS, moved to PDS/$$$XEPH
+2025-04-16 01:38:01.210549 - Found $$ART.txt (text/plain) in CBT.V508.FILE938.PDS, moved to PDS/$$ART
+2025-04-16 01:38:01.210587 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE938.PDS, moved to PDS/$$NOTE01
+2025-04-16 01:38:01.210625 - Found @FILE938.txt (text/plain) in CBT.V508.FILE938.PDS, moved to PDS/@FILE938
+2025-04-16 01:38:01.210674 - Found SSINFO.jcl (text/plain) in CBT.V508.FILE938.PDS, moved to PDS/SSINFO
